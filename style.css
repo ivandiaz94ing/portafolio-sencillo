@@ -1,0 +1,54 @@
+body{
+    display: flex;
+   justify-content: center;
+   align-items: center;
+   width: 1200px;
+   height: 680px;
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+    width: 750px;
+    height: 600px;
+    background-color: cornflowerblue;
+    justify-content: center;
+    align-items: center;
+
+}
+.elem{
+    width: 170px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ele1{
+background-color: coral;
+}
+.ele2{
+    background-color: rgb(130, 131, 185);  
+}
+.ele3{
+    background-color: rgb(110, 129, 94);
+}
+.ele4{
+    background-color: rgb(224, 212, 207);
+}
+.ele5{
+    background-color: rgba(209, 212, 15, 0.733);
+}
+.ele6{
+    background-color: rgb(52, 102, 85);
+}
+.ele7{
+    background-color: rgb(52, 36, 88);
+}
+.ele8{
+    background-color: rgb(143, 62, 107);
+}
+
+h3{
+    text-align: center;
+}
